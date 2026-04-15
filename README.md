@@ -66,15 +66,12 @@ This project analyzes loan default patterns using Power BI to identify high-risk
 
 ### 🔹 Loan Overview
 
-![Loan Overview](./images/page1_overview.png)
-
+![Loan Overview](page1_overview.png)
 ### 🔹 Applicant Demographics
 
-![Demographics](./images/page2_demographics.png)
-
+![Demographics](page2_demographics.png)
 ### 🔹 Financial Risk Metrics
-
-![Risk Metrics](./images/page3_risk_metrics.png)
+![Risk Metrics](page3_risk_metrics.png)
 
 ---
 
