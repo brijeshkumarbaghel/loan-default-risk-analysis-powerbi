@@ -3,8 +3,6 @@
 The Power BI file is available in compressed format:[Download PBIX File](loan-default-dashboard.zip
 # 📊 Loan Default Risk Analysis & Dashboard (Power BI)
 
-# 📊 Loan Default Risk Analysis & Dashboard (Power BI)
-
 ## 🔍 Overview
 
 This project analyzes loan default behavior using Power BI to identify high-risk customer segments and uncover financial trends. The solution integrates SQL Server for data extraction and Power BI for visualization, enabling data-driven decision-making through interactive dashboards.
